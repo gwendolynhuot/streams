@@ -1,0 +1,45 @@
+Hello world! What do I think of using github for a place to share my thoughts?
+
+Text. Text! This is where the action is.
+
+Version control. Licenses. If I'm "just talking", what do I need formatting for?
+
+Plain text was once all there was for talking. Bulletin board systems. Usenet. ICQ. Command line!
+
+When it comes to code management in 2019, what are the tools/features that programmers are using?
+
+I imagine that this (code repositories) are the pragmatic "edge"/frontier of plain text management.
+
+Interroperable-idea management.
+
+I'm in no one's social media ecosystem. I am unburdened from thinking about html and formatting. 
+
+I AM FREE!!!!!!!!!!
+
+What do I see along the top? "Issues". Hmmm, I wonder how I can use that. "Pull requests" -- what are those? Projects. Sure! But what are my projects?
+
+Oh that previous line started getting long.
+
+Do I want to have long lines of thoughts, or just short ones? What will this read like on a telephone?
+
+Oooh I love the "soft wrap" / "no wrap" option in the top right corner. Give me that control!!!
+
+     Spaces.
+		 Whoa. It did the spaces automatically.
+		 	Tab. I just tabbed.
+				I tabbed again.
+					Another tab.
+					     Spaces that time. 5 of them.
+							 Auto.
+							 OK get me back to the left margin again.
+Shift-tab seemed to do it.
+
+OK, back on solid ground again.
+
+"Security". "Settings". Insights? What's going on over there?
+
+"Unwatch" / watch. Be notified when @mentioned. "Conversations." I just starred this.
+
+When would one want to "fork" a conversational txt file? Hmmm.
+
+In the beginning, God created the heaven and earth. OK I'm done for the day!
